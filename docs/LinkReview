@@ -1,0 +1,19 @@
+1)
+http://strijov.com/papers/Katrutsa2014TestGeneration.pdf
+https://www.researchgate.net/publication/272373589_Stresstest_procedure_for_feature_selection_algorithms
+
+В работе исследована эффективность различных методов отбора признаков в случае выборок с мультиколлинеарными призаками.
+
+2)
+http://strijov.com/papers/Katrutsa2016QPFeatureSelection.pdf
+Описан метод квадратичного программирования для задачи отбора признаков
+
+3)
+Про мультиколлинеарность
+https://EconPapers.repec.org/RePEc:tpr:restat:v:55:y:1973:i:3:p:371-80
+
+4)
+Выбор признаков
+https://www.researchgate.net/publication/221996079_An_Introduction_of_Variable_and_Feature_Selection
+
+https://www.researchgate.net/publication/322920304_Feature_selection_methods_Case_of_filter_and_wrapper_approaches_for_maximising_classification_accuracy
